@@ -6,8 +6,8 @@ Notebooks in this repository may be unpolished; this is a playground for experim
 
 ## Index
 
-- [Click Forecasting with Prophet]()
-- []()
+- [Click Forecasting with Prophet](timeseries-forecasting.ipynb)
+- [Blog Text Classification with Embeddings, Regression, and RandomForests](text-classification.ipynb)
 
 ## License
 
