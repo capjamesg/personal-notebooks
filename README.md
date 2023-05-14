@@ -10,10 +10,18 @@ Notebooks in this repository may be unpolished; this is a playground for experim
 - [Blog Text Classification with Embeddings, Regression, and RandomForests](text-classification.ipynb)
 - [Object Detection with YOLOv8](yolov8.ipynb)
 - [Text Clustering with Embeddings, t-SNE, K-Means, and Plotly](clustering.ipynb)
+- [Category Classification with Embeddings and XGBoost](xgboost.ipynb)
+- [Collaborative Filtering for Bluesky Feeds](collaborative-filtering.ipynb)
+- [Computer Vision Model Drift, Bounding Box Heatmap](drift.ipynb)
+
+## General Utilities
+
+- [ImageBind notebook turned into a Python script](utils/imagebindir.py)
+- [CLIP image search as a Python script](utils/clipir.py)
 
 ## License
 
-This project is licensed u nder an [MIT license](LICENSE).
+This project is licensed under an [MIT license](LICENSE).
 
 ## Contributors
 
